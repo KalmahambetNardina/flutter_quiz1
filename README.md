@@ -1,16 +1,8 @@
 # flutter_quiz
 
-A new Flutter project.
 
-## Getting Started
+![Снимок экрана (23)](https://github.com/KalmahambetNardina/flutter_quiz1/assets/145662631/0cdc9aa1-6985-44c3-b480-b4a0b3e2cc9d)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A weather forecast app displays information about the expected weather conditions for a specific location and time period. It typically includes details such as temperature, precipitation, wind speed, humidity, and atmospheric pressure. Users can often search for weather forecasts by entering a city name or location.
